@@ -27,7 +27,7 @@ int Menu(void) {
 
     int opcion = 0;
 
-    cout << "Laboratorio #1" << endl << endl;
+    cout << "Laboratorio #2" << endl << endl;
     cout << "0. Para salir." << endl;
     for (int i = 2; i <= 18; i += 2) {
 
@@ -35,7 +35,7 @@ int Menu(void) {
 
     }
 
-    cout << endl << "Ingrese la opcio: ";
+    cout << endl << "Ingrese la opcion: ";
     cin >> opcion;
 
     return opcion;
@@ -81,7 +81,7 @@ int Opciones(void){
             } while (opcion2 == 2);
 
             break;
-/*
+
         case 4:
 
             do {
@@ -106,7 +106,7 @@ int Opciones(void){
 
             break;
 
-        case 8:
+/*        case 8:
 
             do {
 
