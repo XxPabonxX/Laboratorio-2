@@ -4,7 +4,7 @@
 int Problema2(void);
 int Problema4(void);
 int Problema6(void);
-//int Problema8(void);
+int Problema8(void);
 //int Problema10(void);
 //int Problema12(void);
 //int Problema14(void);
