@@ -142,7 +142,7 @@ int Opciones(void){
 
             break;
 
- /*       case 14:
+        case 14:
 
             do {
 
@@ -177,7 +177,7 @@ int Opciones(void){
             } while (opcion2 == 2);
 
             break;
-*/
+
 
         default:
 

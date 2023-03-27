@@ -7,9 +7,9 @@ int Problema6(void);
 int Problema8(void);
 int Problema10(void);
 int Problema12(void);
-//int Problema14(void);
-//int Problema16(void);
-//int Problema18(void);
+int Problema14(void);
+int Problema16(void);
+int Problema18(void);
 
 int Limpiar_pantalla(void);
 int Menu(void);
