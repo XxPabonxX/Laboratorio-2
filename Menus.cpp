@@ -118,7 +118,7 @@ int Opciones(void){
 
             break;
 
-/*        case 10:
+        case 10:
 
             do {
 
@@ -142,7 +142,7 @@ int Opciones(void){
 
             break;
 
-        case 14:
+ /*       case 14:
 
             do {
 

@@ -11,7 +11,7 @@ los demás caracteres no deben ser alterados.
 
 using namespace std;
 
-int Problema6() {
+int Problema6(void) {
 
     char cadena[255];
 

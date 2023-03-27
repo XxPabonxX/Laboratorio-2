@@ -13,7 +13,7 @@ using namespace std;
 
 int cadenaentero(char* cadena);
 
-int Problema8() {
+int Problema8(void) {
 
     int Nnumeros = 0, Ncaracteres = 0;
 

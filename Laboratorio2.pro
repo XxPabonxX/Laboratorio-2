@@ -6,6 +6,7 @@ CONFIG -= qt
 SOURCES += \
         Menus.cpp \
         Problema10.cpp \
+        Problema12.cpp \
         Problema2.cpp \
         Problema4.cpp \
         Problema6.cpp \
